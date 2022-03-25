@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring web technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BTech in Mechanical Engineering from Academy of Technology, West Bengal.
 - 💼 &nbsp; Working as a Technical Support Engineer at Global IDs, Kolkata.
 - 🌱 &nbsp; Learning more about React JS followed by diving deep into backend technologies like Node Js, Express JS.
-- 🧑‍💻 &nbsp; 
+- 💻 &nbsp; Looking for Web Developer role🔎
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
