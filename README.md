@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Shreshtha .star_struck:</h2>
+<h2> Hey there! I'm Shreshtha </h2>:star_stuck:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
