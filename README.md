@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Shreshtha </h2>:star_stuck:
+<h2> Hey there! I'm Shreshtha 🤩</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -6,7 +6,7 @@
 - 🎓 &nbsp; BTech in Mechanical Engineering from Academy of Technology, West Bengal.
 - 💼 &nbsp; Working as a Technical Support Engineer at Global IDs, Kolkata.
 - 🌱 &nbsp; Learning more about React JS followed by diving deep into backend technologies like Node Js, Express JS.
-- ✍️ &nbsp; 
+- 🧑‍💻 &nbsp; 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
